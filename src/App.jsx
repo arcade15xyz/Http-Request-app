@@ -117,7 +117,6 @@ function App() {
 
         <AvailablePlaces 
           onSelectPlace={handleSelectPlace} 
-
         />
       </main>
     </>
